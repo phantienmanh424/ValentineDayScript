@@ -52,7 +52,7 @@ $('.kehalaman2').click(function() {
 });
 
 var i = 0;
-var txt = "Người ta nói bệnh nào cũng có thuốc chữa. Anh đã ngừng tin điều ấy khi anh phát hiện ra rằng anh đang mang một căn bệnh mà có lẽ, sẽ không bao giờ có thuốc chữa được là bệnh anh ngừng yêu em";
+var txt = "Người ta nói bệnh nào cũng có thuốc chữa. Anh đã ngừng tin điều ấy khi anh phát hiện ra rằng anh đang mang một căn bệnh mà có lẽ, sẽ không bao giờ có thuốc chữa được là bệnh anh ngừng yêu em. I LOVE YOUUUUU";
 var speed = 200;
 
 function JalaninTeks() {
